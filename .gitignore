@@ -1,0 +1,13 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore node/npm stuff if accidentally added
+node_modules/
+npm-debug.log
+
+# Ignore zip archives
+*.zip
+
+# Ignore VS Code settings
+.vscode/
